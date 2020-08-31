@@ -1,0 +1,15 @@
+{
+  "name": "20200918-mocha-test-vs-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gl": "^4.5.3",
+    "mocha": "^8.1.3"
+  }
+}
